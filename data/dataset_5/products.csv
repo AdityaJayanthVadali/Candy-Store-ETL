@@ -1,0 +1,37 @@
+product_id,product_name,product_category,product_subcategory,product_shape,sales_price,cost_to_make,stock
+1,Powdered Sugar Tape Balls,Chewing Gum,Tape,Balls,8.05,4.81,2419
+2,Sugar-Free Coat Tape Balls,Chewing Gum,Tape,Balls,0.51,0.35,3972
+3,Powdered Sugar Tape Ribbons,Chewing Gum,Tape,Ribbons,7.38,2.97,3292
+4,Sugar-Free Coat Tape Ribbons,Chewing Gum,Tape,Ribbons,5.89,2.76,4143
+5,Powdered Sugar Bubble Balls,Chewing Gum,Bubble,Balls,5.38,2.87,2991
+6,Sugar-Free Coat Bubble Balls,Chewing Gum,Bubble,Balls,0.82,0.42,4816
+7,Powdered Sugar Bubble Ribbons,Chewing Gum,Bubble,Ribbons,3.86,1.94,4355
+8,Sugar-Free Coat Bubble Ribbons,Chewing Gum,Bubble,Ribbons,7.74,3.65,4986
+9,Powdered Sugar Sticks Balls,Chewing Gum,Sticks,Balls,9.19,3.77,3367
+10,Sugar-Free Coat Sticks Balls,Chewing Gum,Sticks,Balls,1.43,0.82,4082
+11,Powdered Sugar Sticks Ribbons,Chewing Gum,Sticks,Ribbons,5.63,2.68,4657
+12,Sugar-Free Coat Sticks Ribbons,Chewing Gum,Sticks,Ribbons,8.78,4.11,4863
+13,Sour Sugar Rings Standard,Gummies & Jellies,Rings,Standard,6.91,3.36,2978
+14,Opaque Rings Standard,Gummies & Jellies,Rings,Standard,8.19,5.54,3462
+15,Sour Sugar Rings Giant,Gummies & Jellies,Rings,Giant,5.56,2.29,3278
+16,Opaque Rings Giant,Gummies & Jellies,Rings,Giant,5.85,3.03,4990
+17,Sour Sugar Bears Standard,Gummies & Jellies,Bears,Standard,5.43,2.53,2466
+18,Opaque Bears Standard,Gummies & Jellies,Bears,Standard,6.46,2.99,3988
+19,Sour Sugar Bears Giant,Gummies & Jellies,Bears,Giant,2.9,1.69,4285
+20,Opaque Bears Giant,Gummies & Jellies,Bears,Giant,1.92,0.78,2697
+21,Sour Sugar Worms Standard,Gummies & Jellies,Worms,Standard,5.7,3.66,2339
+22,Opaque Worms Standard,Gummies & Jellies,Worms,Standard,1.21,0.67,4549
+23,Sour Sugar Worms Giant,Gummies & Jellies,Worms,Giant,5.7,3.62,3784
+24,Opaque Worms Giant,Gummies & Jellies,Worms,Giant,3.97,2.49,4489
+25,Pastel Dust Fruit Sticks,Marshmallow,Fruit,Sticks,2.51,1.33,4833
+26,Graham Fruit Sticks,Marshmallow,Fruit,Sticks,2.25,1.22,2813
+27,Pastel Dust Fruit Cones,Marshmallow,Fruit,Cones,1.71,0.75,4333
+28,Graham Fruit Cones,Marshmallow,Fruit,Cones,3.77,1.95,3093
+29,Pastel Dust Gourmet Sticks,Marshmallow,Gourmet,Sticks,4.72,2.81,3696
+30,Graham Gourmet Sticks,Marshmallow,Gourmet,Sticks,1.14,0.46,2170
+31,Pastel Dust Gourmet Cones,Marshmallow,Gourmet,Cones,1.83,1.14,4011
+32,Graham Gourmet Cones,Marshmallow,Gourmet,Cones,2.41,1.52,4026
+33,Pastel Dust Dipped Sticks,Marshmallow,Dipped,Sticks,5.52,3.14,2040
+34,Graham Dipped Sticks,Marshmallow,Dipped,Sticks,7.1,3.21,2616
+35,Pastel Dust Dipped Cones,Marshmallow,Dipped,Cones,9.26,4.64,2191
+36,Graham Dipped Cones,Marshmallow,Dipped,Cones,8.84,4.16,2250

@@ -1,0 +1,1097 @@
+[
+  {
+    "transaction_id": 2817465,
+    "customer_id": 2,
+    "timestamp": "2024-02-02T10:19:01.810301",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 45637807,
+    "customer_id": 10,
+    "timestamp": "2024-02-02T06:28:23.077131",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sugar-Free Coat Sticks Ribbons",
+        "qty": null
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 80941358,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T07:32:10.229289",
+    "items": [
+      {
+        "product_id": 34,
+        "product_name": "Graham Dipped Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Opaque Rings Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 70689175,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T11:43:27.201295",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": null
+      },
+      {
+        "product_id": 31,
+        "product_name": "Pastel Dust Gourmet Cones",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 36,
+        "product_name": "Graham Dipped Cones",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 90940331,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T10:08:04.241668",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 15,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": 4
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 81410491,
+    "customer_id": 21,
+    "timestamp": "2024-02-02T07:10:16.001479",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sugar-Free Coat Bubble Balls",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 70160291,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T08:20:56.328405",
+    "items": [
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 1
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 64787119,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T14:04:25.298824",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 26,
+        "product_name": "Graham Fruit Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 9812545,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T11:51:37.657624",
+    "items": [
+      {
+        "product_id": 17,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 59773114,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T20:39:41.013020",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Opaque Rings Standard",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 34778964,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T03:53:17.048652",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sugar-Free Coat Sticks Balls",
+        "qty": 4
+      },
+      {
+        "product_id": 2,
+        "product_name": "Sugar-Free Coat Tape Balls",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 69118900,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T01:22:15.543219",
+    "items": [
+      {
+        "product_id": 29,
+        "product_name": "Pastel Dust Gourmet Sticks",
+        "qty": null
+      },
+      {
+        "product_id": 32,
+        "product_name": "Graham Gourmet Cones",
+        "qty": null
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 40858784,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T08:20:14.978037",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Opaque Rings Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 28073797,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T04:11:59.680531",
+    "items": [
+      {
+        "product_id": 3,
+        "product_name": "Powdered Sugar Tape Ribbons",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 18427697,
+    "customer_id": 7,
+    "timestamp": "2024-02-02T07:31:18.964944",
+    "items": [
+      {
+        "product_id": 20,
+        "product_name": "Opaque Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 32,
+        "product_name": "Graham Gourmet Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 7,
+        "product_name": "Powdered Sugar Bubble Ribbons",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 3
+      },
+      {
+        "product_id": 26,
+        "product_name": "Graham Fruit Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 21741474,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T14:02:13.813949",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": 3
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sugar-Free Coat Sticks Balls",
+        "qty": 4
+      },
+      {
+        "product_id": 34,
+        "product_name": "Graham Dipped Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 57315992,
+    "customer_id": 4,
+    "timestamp": "2024-02-02T09:11:41.640650",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 4
+      },
+      {
+        "product_id": 14,
+        "product_name": "Opaque Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Standard",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 29984931,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T12:58:18.165848",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 21375320,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T07:22:07.775708",
+    "items": [
+      {
+        "product_id": 32,
+        "product_name": "Graham Gourmet Cones",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 18,
+        "product_name": "Opaque Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 11,
+        "product_name": "Powdered Sugar Sticks Ribbons",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 59761824,
+    "customer_id": 11,
+    "timestamp": "2024-02-02T07:36:06.503978",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sugar-Free Coat Bubble Balls",
+        "qty": 1
+      },
+      {
+        "product_id": 3,
+        "product_name": "Powdered Sugar Tape Ribbons",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 93213177,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T06:19:00.018538",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Opaque Bears Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sugar-Free Coat Sticks Balls",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 34337145,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T06:21:20.358041",
+    "items": [
+      {
+        "product_id": 31,
+        "product_name": "Pastel Dust Gourmet Cones",
+        "qty": 2
+      },
+      {
+        "product_id": 15,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 96534442,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T14:31:19.511998",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 4
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sugar-Free Coat Sticks Ribbons",
+        "qty": 3
+      },
+      {
+        "product_id": 29,
+        "product_name": "Pastel Dust Gourmet Sticks",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 57781388,
+    "customer_id": 6,
+    "timestamp": "2024-02-02T18:02:33.755659",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Powdered Sugar Tape Balls",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 24699743,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T23:19:18.486835",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 28,
+        "product_name": "Graham Fruit Cones",
+        "qty": 3
+      },
+      {
+        "product_id": 21,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 33,
+        "product_name": "Pastel Dust Dipped Sticks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 10092481,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T22:03:13.873810",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Opaque Rings Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 6,
+        "product_name": "Sugar-Free Coat Bubble Balls",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Graham Gourmet Cones",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 21348428,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T05:33:49.828272",
+    "items": [
+      {
+        "product_id": 12,
+        "product_name": "Sugar-Free Coat Sticks Ribbons",
+        "qty": 2
+      },
+      {
+        "product_id": 3,
+        "product_name": "Powdered Sugar Tape Ribbons",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 4271136,
+    "customer_id": 15,
+    "timestamp": "2024-02-02T17:34:09.271564",
+    "items": [
+      {
+        "product_id": 13,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Bears Giant",
+        "qty": 2
+      },
+      {
+        "product_id": 21,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 615939,
+    "customer_id": 5,
+    "timestamp": "2024-02-02T12:35:11.134154",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sugar-Free Coat Tape Balls",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 7483102,
+    "customer_id": 29,
+    "timestamp": "2024-02-02T07:55:13.399686",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sugar-Free Coat Sticks Balls",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 18,
+        "product_name": "Opaque Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 11774552,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T20:08:25.031717",
+    "items": [
+      {
+        "product_id": 15,
+        "product_name": "Sour Sugar Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 7,
+        "product_name": "Powdered Sugar Bubble Ribbons",
+        "qty": 3
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 1
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 84786160,
+    "customer_id": 27,
+    "timestamp": "2024-02-02T06:33:50.366798",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Powdered Sugar Tape Balls",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 872372,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T01:17:25.504066",
+    "items": [
+      {
+        "product_id": 14,
+        "product_name": "Opaque Rings Standard",
+        "qty": 1
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 1
+      },
+      {
+        "product_id": 34,
+        "product_name": "Graham Dipped Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 8,
+        "product_name": "Sugar-Free Coat Bubble Ribbons",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 35866108,
+    "customer_id": 3,
+    "timestamp": "2024-02-02T17:28:29.974494",
+    "items": [
+      {
+        "product_id": 16,
+        "product_name": "Opaque Rings Giant",
+        "qty": 3
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 500651,
+    "customer_id": 13,
+    "timestamp": "2024-02-02T07:02:24.867357",
+    "items": [
+      {
+        "product_id": 18,
+        "product_name": "Opaque Bears Standard",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      },
+      {
+        "product_id": 29,
+        "product_name": "Pastel Dust Gourmet Sticks",
+        "qty": 5
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 61637769,
+    "customer_id": 14,
+    "timestamp": "2024-02-02T21:18:16.803658",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 1
+      },
+      {
+        "product_id": 22,
+        "product_name": "Opaque Worms Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 17,
+        "product_name": "Sour Sugar Bears Standard",
+        "qty": 3
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 32204090,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T05:01:41.500989",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 4
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": 3
+      },
+      {
+        "product_id": 32,
+        "product_name": "Graham Gourmet Cones",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 51622878,
+    "customer_id": 17,
+    "timestamp": "2024-02-02T07:34:40.089489",
+    "items": [
+      {
+        "product_id": 35,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": 1
+      },
+      {
+        "product_id": 5,
+        "product_name": "Powdered Sugar Bubble Balls",
+        "qty": 1
+      },
+      {
+        "product_id": 29,
+        "product_name": "Pastel Dust Gourmet Sticks",
+        "qty": 4
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 41510922,
+    "customer_id": 30,
+    "timestamp": "2024-02-02T22:27:53.924650",
+    "items": [
+      {
+        "product_id": 10,
+        "product_name": "Sugar-Free Coat Sticks Balls",
+        "qty": 5
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Worms Giant",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 13944838,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T18:10:21.715314",
+    "items": [
+      {
+        "product_id": 4,
+        "product_name": "Sugar-Free Coat Tape Ribbons",
+        "qty": null
+      },
+      {
+        "product_id": 10,
+        "product_name": "Sugar-Free Coat Sticks Balls",
+        "qty": 1
+      },
+      {
+        "product_id": 24,
+        "product_name": "Opaque Worms Giant",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 60461182,
+    "customer_id": 18,
+    "timestamp": "2024-02-02T22:06:35.288781",
+    "items": [
+      {
+        "product_id": 1,
+        "product_name": "Powdered Sugar Tape Balls",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": 2
+      },
+      {
+        "product_id": 7,
+        "product_name": "Powdered Sugar Bubble Ribbons",
+        "qty": 4
+      },
+      {
+        "product_id": 35,
+        "product_name": "Pastel Dust Dipped Cones",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 23629755,
+    "customer_id": 23,
+    "timestamp": "2024-02-02T23:17:53.944266",
+    "items": [
+      {
+        "product_id": 33,
+        "product_name": "Pastel Dust Dipped Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 12,
+        "product_name": "Sugar-Free Coat Sticks Ribbons",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 11339550,
+    "customer_id": 8,
+    "timestamp": "2024-02-02T07:01:50.731150",
+    "items": [
+      {
+        "product_id": 5,
+        "product_name": "Powdered Sugar Bubble Balls",
+        "qty": null
+      }
+    ]
+  },
+  {
+    "transaction_id": 78414555,
+    "customer_id": 20,
+    "timestamp": "2024-02-02T23:37:53.712232",
+    "items": [
+      {
+        "product_id": 6,
+        "product_name": "Sugar-Free Coat Bubble Balls",
+        "qty": 2
+      },
+      {
+        "product_id": 13,
+        "product_name": "Sour Sugar Rings Standard",
+        "qty": 4
+      },
+      {
+        "product_id": 31,
+        "product_name": "Pastel Dust Gourmet Cones",
+        "qty": null
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "transaction_id": 45325226,
+    "customer_id": 16,
+    "timestamp": "2024-02-02T21:51:07.795580",
+    "items": [
+      {
+        "product_id": 21,
+        "product_name": "Sour Sugar Worms Standard",
+        "qty": 2
+      },
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 33,
+        "product_name": "Pastel Dust Dipped Sticks",
+        "qty": 5
+      }
+    ]
+  },
+  {
+    "transaction_id": 65967056,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T01:56:55.782476",
+    "items": [
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 1
+      },
+      {
+        "product_id": 20,
+        "product_name": "Opaque Bears Giant",
+        "qty": 5
+      },
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 1
+      },
+      {
+        "product_id": 32,
+        "product_name": "Graham Gourmet Cones",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "transaction_id": 65863703,
+    "customer_id": 25,
+    "timestamp": "2024-02-02T10:37:18.577382",
+    "items": [
+      {
+        "product_id": 2,
+        "product_name": "Sugar-Free Coat Tape Balls",
+        "qty": 2
+      },
+      {
+        "product_id": 27,
+        "product_name": "Pastel Dust Fruit Cones",
+        "qty": 5
+      },
+      {
+        "product_id": 31,
+        "product_name": "Pastel Dust Gourmet Cones",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "transaction_id": 74039787,
+    "customer_id": 24,
+    "timestamp": "2024-02-02T06:15:11.906703",
+    "items": [
+      {
+        "product_id": 36,
+        "product_name": "Graham Dipped Cones",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 98671255,
+    "customer_id": 28,
+    "timestamp": "2024-02-02T13:59:03.196161",
+    "items": [
+      {
+        "product_id": 19,
+        "product_name": "Sour Sugar Bears Giant",
+        "qty": 4
+      }
+    ]
+  },
+  {
+    "transaction_id": 5595453,
+    "customer_id": 22,
+    "timestamp": "2024-02-02T07:41:50.203869",
+    "items": [
+      {
+        "product_id": 30,
+        "product_name": "Graham Gourmet Sticks",
+        "qty": 2
+      },
+      {
+        "product_id": 9,
+        "product_name": "Powdered Sugar Sticks Balls",
+        "qty": 3
+      },
+      {
+        "product_id": 25,
+        "product_name": "Pastel Dust Fruit Sticks",
+        "qty": 3
+      },
+      {
+        "product_id": 11,
+        "product_name": "Powdered Sugar Sticks Ribbons",
+        "qty": 4
+      },
+      {
+        "product_id": 23,
+        "product_name": "Sour Sugar Worms Giant",
+        "qty": 3
+      }
+    ]
+  }
+]
