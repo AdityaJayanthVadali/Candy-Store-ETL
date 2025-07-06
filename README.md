@@ -10,14 +10,7 @@ The Candy Store Analytics System is a PySpark-based application that processes d
 The transaction data was loaded onto MongoDB:
 
 ```bash
-<<<<<<< HEAD
-for file in /path/to/transactions_*.json; do
-=======
-for file in /home/adityajayanthvadali/Desktop/DSCI-644/project-2/data/dataset_5/transactions_*.json; do
->>>>>>> 981e598ae1bb67914406b26192f402b1bbf1f8f2
-        collection_name=$(basename "$file" .json)
     mongoimport --db mydatabase --collection "$collection_name" --file "$file" --jsonArray
-Done
 ```
 
 The Products and Customer csv files were loaded onto mySQL:
